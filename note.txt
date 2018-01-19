@@ -1,1 +1,2 @@
+I love vim
 This is a test file.  Learning how to git
